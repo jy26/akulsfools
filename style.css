@@ -114,6 +114,12 @@ tr:nth-child(odd) {
 	text-align: center;
 	font-size: 80px;
 }
+.transparentbanner h1 {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	font-size: 80px;
+}
 .secondarybanner {
 	display: flex;
 	/*margin-top: 80px;*/
